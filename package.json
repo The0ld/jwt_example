@@ -1,5 +1,5 @@
 {
-	"name": "jwt_node",
+	"name": "jwt_example",
 	"version": "1.0.0",
 	"description": "Ejemplo de implementacion de Json Web Token",
 	"author": "Dehyvis Coronel",
